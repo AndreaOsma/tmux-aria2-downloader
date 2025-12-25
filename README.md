@@ -49,7 +49,7 @@ To change this, edit the `DEFAULT_DOWNLOAD_DIR` variable at the top of the `torr
 
 ```bash
 # Inside torrent.zsh
-DEFAULT_DOWNLOAD_DIR="/Volumes/SSD 2TB/Movies"
+DEFAULT_DOWNLOAD_DIR="/Volumes/SSD/Movies"
 ```
 
 ## Usage
