@@ -49,7 +49,7 @@ To change this, edit the `DEFAULT_DOWNLOAD_DIR` variable at the top of the `torr
 
 ```bash
 # Inside torrent.zsh
-DEFAULT_DOWNLOAD_DIR="/Volumes/SSD/Movies"
+DEFAULT_DOWNLOAD_DIR="/Volumes/ExternalDrive/Data"
 ```
 
 ## Usage
@@ -58,7 +58,7 @@ DEFAULT_DOWNLOAD_DIR="/Volumes/SSD/Movies"
 Accepts `.torrent` files or Magnet links.
 
 ```bash
-torrent my-movie.torrent
+torrent linux-distro.torrent
 # or
 torrent "magnet:?xt=urn:btih:..."
 ```
